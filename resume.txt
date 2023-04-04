@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>RESUME</title>
+
+</head>
+<body>
+<h6 align= "centre"> GODESI TEZA </h6>
+<h5 align= "right">Email.ID:tejagodesi69@gmail.com</h5>
+<h5 align= "left"> MKobile NO:9712658201</h5>
+<hr>
+<h4>Carrer objective</h4>
+<dd> To develop my carrer in an organization where i will ba a valuable team member contributingb quality ideas and where there is simple scope for learing and growth
+<h5>Education</h5>
+<dl>
+<dt>ssc</dt>
